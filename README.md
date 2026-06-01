@@ -15,48 +15,37 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🪪 About Me
 
-<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```java
-public class SwethaSriM {
+### 👩‍💻 Swetha Sri M
 
-    String name      = "Swetha Sri M";
-    String location  = "Namakkal, Tamil Nadu, India 🇮🇳";
-    String degree    = "B.E. AI & ML — M. Kumarasamy College of Engineering";
-    String status    = "Open to Internships & Full-Time Roles 💼";
+| | |
+|---|---|
+| 📍 **Location** | Namakkal, Tamil Nadu, India 🇮🇳 |
+| 🎓 **Degree** | B.E. AI & ML — M. Kumarasamy College of Engineering |
+| 📅 **Batch** | 2023 – 2027 |
+| 💼 **Status** | **Open to Internships & Full-Time Roles** |
+| 📜 **Patent** | Group 1 Patent Holder 🏅 |
+| 💰 **Funding** | ₹5,000 Seed Funded Innovator 🚀 |
+| ☁️ **Certified** | Microsoft Azure AI-900 ✅ |
 
-    String[] roles = {
-        "AI / ML Engineer",
-        "Full Stack Developer",
-        "Backend Developer (Java)",
-        "Frontend Developer (React.js)",
-        "Android Developer (Kotlin)"
-    };
+<br/>
 
-    String[] techStack = {
-        "Java", "Python", "JavaScript", "Kotlin", "SQL",
-        "React.js", "Node.js", "REST API", "JDBC",
-        "MongoDB", "Firebase", "MySQL",
-        "IBM Watson", "Microsoft Azure", "Git", "Figma"
-    };
+### 🎯 I Can Work As
 
-    String[] currentlyLearning = {
-        "Advanced ML & NLP (GPT Fine-tuning)",
-        "Azure ML Studio & Cloud AI Services",
-        "Kotlin + Jetpack Compose (Android)",
-        "Microservices & System Design"
-    };
+> 🤖 **AI / ML Engineer** &nbsp;|&nbsp; 🌐 **Full Stack Developer** &nbsp;|&nbsp; ☕ **Backend Developer (Java)**
+>
+> 🎨 **Frontend Developer (React.js)** &nbsp;|&nbsp; 📱 **Android Developer (Kotlin)**
 
-    String achievement =
-        "Group 1 Patent Holder + Rs.5K Seed Funded Innovator!";
+<br/>
 
-    String motto() {
-        return "Build smart. Ship fast. Keep learning.";
-    }
-}
-```
+### 💬 My Motto
+
+> *"Build smart. Ship fast. Keep learning."*
+
+<br clear="right"/>
 
 ---
 
