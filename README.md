@@ -1,13 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swetha%20Sri%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20%26%20Intelligent%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swetha%20Sri%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Patent%20Holder%20%7C%20Open%20to%20Opportunities&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Swetha+Sri+%F0%9F%91%8B;AI+%26+ML+Engineering+Student;Full+Stack+Developer+%7C+Java+%2B+React;Patent+Holder+%7C+Open+Source+Enthusiast)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Swetha+Sri+%F0%9F%91%8B;AI+%26+ML+Engineering+Student;Full+Stack+Developer+%7C+Java+%2B+React;Patent+Holder+%7C+Open+Source+Enthusiast)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js+%7C+SQL;IBM+Watson+%7C+Azure+AI-900+Certified+%E2%98%81%EF%B8%8F;Patent+Holder+%7C+Seed-Funded+Innovator+%F0%9F%9A%80;Open+to+Internships+%26+Full-Time+Roles)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js+%7C+SQL;IBM+Watson+%7C+Azure+AI-900+Certified+%E2%98%81%EF%B8%8F;Patent+Holder+%7C+Seed-Funded+Innovator+%F0%9F%9A%80;Open+to+Internships+%26+Full-Time+Roles)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Swethasri08&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/Swethasri08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swetha%20Sri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-sri-b3a02a290/)
 [![GitHub](https://img.shields.io/badge/GitHub-Swethasri08-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Swethasri08)
 [![Email](https://img.shields.io/badge/Email-swethasri0801%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swethasri0801@gmail.com)
+[![Azure](https://img.shields.io/badge/Azure%20AI--900-Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/Swethasri08)
+[![Patent](https://img.shields.io/badge/Group%201-Patent%20Holder-bf91f3?style=flat-square&logoColor=white)](https://github.com/Swethasri08)
 
 </div>
 
@@ -20,30 +22,55 @@
 ```java
 public class SwethaSriM {
 
-    String name        = "Swetha Sri M";
-    String location    = "Namakkal, Tamil Nadu 🇮🇳";
-    String degree      = "B.E. AI & ML — M. Kumarasamy College of Engineering";
+    String name      = "Swetha Sri M";
+    String location  = "Namakkal, Tamil Nadu, India 🇮🇳";
+    String degree    = "B.E. AI & ML — M. Kumarasamy College of Engineering";
+    String status    = "Open to Internships & Full-Time Roles 💼";
 
-    String[] stack = {
-        "Java", "Python", "JavaScript",
-        "React.js", "Node.js", "SQL",
-        "MongoDB", "Firebase", "REST API"
+    String[] roles = {
+        "AI / ML Engineer",
+        "Full Stack Developer",
+        "Backend Developer (Java)",
+        "Frontend Developer (React.js)",
+        "Android Developer (Kotlin)"
+    };
+
+    String[] techStack = {
+        "Java", "Python", "JavaScript", "Kotlin", "SQL",
+        "React.js", "Node.js", "REST API", "JDBC",
+        "MongoDB", "Firebase", "MySQL",
+        "IBM Watson", "Microsoft Azure", "Git", "Figma"
     };
 
     String[] currentlyLearning = {
-        "IBM Watson & ML Models",
-        "Microsoft Azure AI (AI-900 Certified ✅)",
-        "Kotlin & Android Development",
-        "Advanced NLP & GPT Integration"
+        "Advanced ML & NLP (GPT Fine-tuning)",
+        "Azure ML Studio & Cloud AI Services",
+        "Kotlin + Jetpack Compose (Android)",
+        "Microservices & System Design"
     };
 
-    String funFact = "I hold a Group 1 Patent & got ₹5K seed funding! 🚀";
+    String achievement =
+        "Group 1 Patent Holder + Rs.5K Seed Funded Innovator!";
 
     String motto() {
-        return "Build. Break. Learn. Repeat.";
+        return "Build smart. Ship fast. Keep learning.";
     }
 }
 ```
+
+---
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+
+| 🤖 AI & Machine Learning | 🌐 Full Stack Development | 📱 Mobile & Cloud |
+|:------------------------:|:-------------------------:|:-----------------:|
+| IBM Watson · GPT · NLP | Java · React.js · Node.js | Kotlin · Android SDK |
+| Azure AI-900 ✅ Certified | REST APIs · JDBC · HTML/CSS | Firebase · MongoDB |
+| ML Models · Data Pipelines | SQL · MySQL · Firebase | Git · Figma · Azure |
+
+</div>
 
 ---
 
@@ -76,97 +103,50 @@ public class SwethaSriM {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Cloud & Tools**
+**AI, Cloud & DevOps**
 
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure%20AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Swethasri08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swethasri08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/Swethasri08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swethasri08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
-</a>
-
-</div>
-
-> ⚠️ **Note:** Stats cards load once you push your first repository to GitHub. They will auto-populate after that!
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Swethasri08&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=Swethasri08)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swethasri08&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Swethasri08)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Swethasri08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Swethasri08)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>AI & ML Intern</strong> — Edunet Foundation (IBM-AICTE) | Feb 2026 – Mar 2026 | Remote</summary>
+<summary>🤖 <strong>AI & ML Intern</strong> — Edunet Foundation (IBM-AICTE) | Feb 2026 – Mar 2026 | Remote</summary>
 
 > ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052FAD?style=flat-square&logo=ibm&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-- 🤖 Developed and trained ML models using IBM Watson tools for real-world data tasks
-- 📊 Performed end-to-end data processing, cleaning, and feature engineering pipelines
-- 🔬 Explored applied AI concepts including supervised learning and NLP fundamentals
-- 🤝 Collaborated in an AICTE-guided program bridging academic and industry AI practices
+- 🤖 Built and trained ML models using IBM Watson for real-world classification and prediction tasks
+- 📊 Executed end-to-end data pipelines — collection, cleaning, feature engineering, and model evaluation
+- 🔬 Applied supervised learning and NLP fundamentals in an industry-grade AICTE program
+- 🤝 Gained hands-on experience with IBM's enterprise cloud AI tools and Watson APIs
 
 </details>
 
 <details>
-<summary>🏢 <strong>Web Development Intern</strong> — CodSoft | Dec 2025 – Feb 2026 | Remote</summary>
+<summary>🌐 <strong>Web Development Intern</strong> — CodSoft | Dec 2025 – Feb 2026 | Remote</summary>
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🌐 Built and improved responsive web applications for multiple client-facing projects
-- 🎨 Ensured cross-browser compatibility and mobile-first responsive design
-- ⚡ Optimized page load performance by refactoring CSS and JavaScript assets
-- 🐛 Debugged UI issues and participated in code reviews to maintain quality standards
+- 🌐 Developed responsive, cross-browser-compatible web applications for multiple projects
+- 🎨 Applied mobile-first design principles and accessibility best practices
+- ⚡ Refactored CSS and JS assets to improve page load performance
+- 🐛 Performed code reviews and UI debugging to maintain quality standards
 
 </details>
 
 <details>
-<summary>🏢 <strong>Full Stack Development Intern</strong> — Brainery Spot Technology | Jul 2025 – Oct 2025 | Tamil Nadu</summary>
+<summary>🚀 <strong>Full Stack Development Intern</strong> — Brainery Spot Technology | Jul 2025 – Oct 2025 | Tamil Nadu</summary>
 
 > ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- 🚀 Developed AI-integrated full stack web applications in an agile team environment
-- 🔗 Built and consumed REST APIs connecting Java backends with React.js frontends
-- 🧪 Participated in sprint planning, daily standups, and agile delivery cycles
-- 🤖 Integrated AI features into web products to enhance user experience and automation
+- 🚀 Developed AI-integrated full stack web apps in an agile team using React.js + Java backend
+- 🔗 Designed and consumed REST APIs connecting frontend interfaces with server-side logic
+- 🧪 Participated in sprint planning, standups, and reviews — full agile SDLC exposure
+- 🤖 Embedded AI-driven features to improve automation and user experience in live products
 
 </details>
 
@@ -176,30 +156,30 @@ public class SwethaSriM {
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| 🌬️ **[VayuRaksha](https://github.com/Swethasri08)** | `IoT` `Embedded Systems` `Hardware` | Wind-adaptive LPG burner system · **Group 1 Patent Filed** · Received **₹5,000 seed funding** |
-| 🗣️ **[Lingua Assist](https://github.com/Swethasri08)** | `Python` `GPT` `NLP` | GPT-powered multilingual AI assistant · Context-aware responses · Multi-language support |
-| 🚛 **[Fleet Optimizer](https://github.com/Swethasri08)** | `Java` `SQL` `Algorithms` | Route optimization system · Reduced vehicle idle time · SQL-backed data processing |
-| 🛒 **[MineKart](https://github.com/Swethasri08)** | `Kotlin` `Android` `Firebase` | Android shopping app · Payment gateway integration · In progress (2025) |
+| Project | Stack | What It Does | Impact |
+|:-------:|:-----:|:------------:|:------:|
+| 🌬️ **[VayuRaksha](https://github.com/Swethasri08)** | `IoT` `Embedded Systems` `Hardware` | Wind-adaptive LPG burner safety system | 📜 Group 1 Patent · 💰 ₹5,000 Seed Funding |
+| 🗣️ **[Lingua Assist](https://github.com/Swethasri08)** | `Python` `GPT` `NLP` | Multilingual AI assistant with GPT integration | Context-aware · Multi-language support |
+| 🚛 **[Fleet Optimizer](https://github.com/Swethasri08)** | `Java` `SQL` `Algorithms` | Route optimization to reduce vehicle idle time | SQL-backed · Real-time processing |
+| 🛒 **[MineKart](https://github.com/Swethasri08)** | `Kotlin` `Android` `Firebase` | Android shopping app with payment integration | Production-ready UI · In Progress |
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
 | 🏆 | Achievement | Details |
 |:--:|:-----------:|:-------:|
-| 📜 | **Group 1 Patent Registered** | Patent filed for VayuRaksha wind-adaptive LPG burner system |
-| 💰 | **₹5,000 Seed Funding** | Received seed funding for VayuRaksha innovation project |
-| 🥈 | **2× NPTEL Silver Certificate** | Scored **77%** and **88%** in NPTEL national-level courses |
-| 🎓 | **Bachelor's Degree in Hindi** | Additional language qualification alongside B.E. AI & ML |
-| ☁️ | **Microsoft Azure AI-900 Certified** | Passed AI Fundamentals certification — May 2026 |
-| ⭐ | **Aptitude Training — Shooting Stars Foundation** | Mar–May 2025 |
-| 🚀 | **MILT Program — Shooting Stars Foundation** | Jan–Feb 2025 |
+| 📜 | **Group 1 Patent Registered** | VayuRaksha — wind-adaptive LPG burner system |
+| 💰 | **₹5,000 Seed Funding Received** | Innovation grant for VayuRaksha project |
+| ☁️ | **Microsoft Azure AI-900 Certified** | AI Fundamentals Certification — May 2026 |
+| 🥈 | **2× NPTEL Silver Certificate** | Scored **77%** and **88%** in national-level courses |
+| 🎓 | **Bachelor's Degree in Hindi** | Additional qualification alongside B.E. AI & ML |
+| ⭐ | **Aptitude Training** | Shooting Stars Foundation — Mar–May 2025 |
+| 🚀 | **MILT Leadership Program** | Shooting Stars Foundation — Jan–Feb 2025 |
 
 </div>
 
@@ -222,24 +202,41 @@ public class SwethaSriM {
 ## 🌱 Currently Learning
 
 ```
-🤖 IBM Watson & AI        →  ML Model Training, Data Processing, Watson APIs
-☁️ Microsoft Azure        →  AI-900 Certified ✅ | Exploring Azure ML Studio
-📱 Android Development    →  Kotlin, Jetpack Compose, Firebase Integration
-🧠 Advanced NLP           →  GPT Fine-tuning, Multilingual AI, Prompt Engineering
-🔗 Full Stack (Advanced)  →  Microservices, REST API Design, CI/CD Pipelines
+🧠 Advanced NLP        →  GPT Fine-tuning, Prompt Engineering, Multilingual AI
+☁️ Azure ML Studio     →  Cloud AI Services, Model Deployment (AI-900 Certified ✅)
+📱 Android (Kotlin)    →  Jetpack Compose, MVVM Architecture, Firebase Integration
+🔗 System Design       →  Microservices, REST API Design, CI/CD Pipelines
+🗃️ Data Engineering    →  Feature Engineering, ML Pipelines, Data Preprocessing
 ```
+
+---
+
+## 💼 Open To Roles
+
+<div align="center">
+
+| Role | Core Skills |
+|:----:|:-----------:|
+| 🤖 AI / ML Engineer | Python · IBM Watson · GPT · NLP · ML Models · Azure AI |
+| 🌐 Full Stack Developer | Java · React.js · Node.js · REST API · MongoDB · Firebase |
+| ☕ Backend Developer | Java · JDBC · SQL · MySQL · Node.js · REST APIs |
+| 🎨 Frontend Developer | React.js · HTML5 · CSS3 · JavaScript · Figma |
+| 📱 Android Developer | Kotlin · Android SDK · Firebase · Payment Integration |
+| 🔬 Software Engineer Intern | Eager to learn, contribute, and grow! |
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+### 📬 I'm Actively Looking for Opportunities — Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-sri-b3a02a290/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swethasri08)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethasri0801@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-sri-b3a02a290/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swethasri0801@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swethasri08)
 
-*"Building tomorrow's solutions with today's code."* ✨
+*"Driven by curiosity. Backed by patents. Ready to build."* 🚀
 
 </div>
 
