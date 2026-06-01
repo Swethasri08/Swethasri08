@@ -17,7 +17,7 @@
 
 ## 🪪 About Me
 
-<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/Swethasri08/Swethasri08/main/reading-girl.png"/>
 
 ### 👩‍💻 Swetha Sri M
 
