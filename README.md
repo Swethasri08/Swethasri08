@@ -17,35 +17,78 @@
 
 ## 🪪 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Swethasri08/Swethasri08/main/reading-girl.png"/>
+<div align="center">
 
-### 👩‍💻 Swetha Sri M
+<svg width="860" height="320" viewBox="0 0 860 320" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Card background -->
+  <rect width="860" height="320" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
-| | |
-|---|---|
-| 📍 **Location** | Namakkal, Tamil Nadu, India 🇮🇳 |
-| 🎓 **Degree** | B.E. AI & ML — M. Kumarasamy College of Engineering |
-| 📅 **Batch** | 2023 – 2027 |
-| 💼 **Status** | **Open to Internships & Full-Time Roles** |
-| 📜 **Patent** | Group 1 Patent Holder 🏅 |
-| 💰 **Funding** | ₹5,000 Seed Funded Innovator 🚀 |
-| ☁️ **Certified** | Microsoft Azure AI-900 ✅ |
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="6" height="320" rx="3" fill="url(#accent)"/>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#70a5fd"/>
+      <stop offset="100%" stop-color="#bf91f3"/>
+    </linearGradient>
+    <linearGradient id="pillgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#70a5fd" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#bf91f3" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
 
-<br/>
+  <!-- Avatar circle -->
+  <circle cx="90" cy="110" r="52" fill="url(#pillgrad)" stroke="#70a5fd" stroke-width="2"/>
+  <text x="90" y="120" text-anchor="middle" font-size="44">👩‍💻</text>
 
-### 🎯 I Can Work As
+  <!-- Name -->
+  <text x="170" y="72" font-size="22" font-weight="700" fill="#e6edf3">Swetha Sri M</text>
+  <!-- Tagline -->
+  <text x="170" y="96" font-size="13" fill="#8b949e">AI &amp; ML Engineer · Full Stack Developer · Patent Holder</text>
 
-> 🤖 **AI / ML Engineer** &nbsp;|&nbsp; 🌐 **Full Stack Developer** &nbsp;|&nbsp; ☕ **Backend Developer (Java)**
->
-> 🎨 **Frontend Developer (React.js)** &nbsp;|&nbsp; 📱 **Android Developer (Kotlin)**
+  <!-- Info rows -->
+  <text x="170" y="126" font-size="13" fill="#8b949e">📍</text>
+  <text x="192" y="126" font-size="13" fill="#c9d1d9">Namakkal, Tamil Nadu, India</text>
 
-<br/>
+  <text x="170" y="150" font-size="13" fill="#8b949e">🎓</text>
+  <text x="192" y="150" font-size="13" fill="#c9d1d9">B.E. AI &amp; ML — M. Kumarasamy College of Engineering (2023–2027)</text>
 
-### 💬 My Motto
+  <text x="170" y="174" font-size="13" fill="#8b949e">☁️</text>
+  <text x="192" y="174" font-size="13" fill="#c9d1d9">Microsoft Azure AI-900 Certified</text>
 
-> *"Build smart. Ship fast. Keep learning."*
+  <text x="170" y="198" font-size="13" fill="#8b949e">📜</text>
+  <text x="192" y="198" font-size="13" fill="#c9d1d9">Group 1 Patent Holder · ₹5,000 Seed Funded Innovator</text>
 
-<br clear="right"/>
+  <!-- Status badge -->
+  <rect x="170" y="215" width="232" height="26" rx="13" fill="url(#pillgrad)" stroke="#70a5fd" stroke-width="1"/>
+  <text x="286" y="232" text-anchor="middle" font-size="12" font-weight="600" fill="#70a5fd">💼 Open to Internships &amp; Full-Time Roles</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="264" x2="830" y2="264" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Roles row -->
+  <text x="430" y="256" text-anchor="middle" font-size="11" fill="#8b949e">I CAN WORK AS</text>
+
+  <!-- Role pills -->
+  <rect x="22"  y="272" width="136" height="24" rx="12" fill="url(#pillgrad)" stroke="#30363d" stroke-width="1"/>
+  <text x="90"  y="288" text-anchor="middle" font-size="11" fill="#bf91f3">🤖 AI / ML Engineer</text>
+
+  <rect x="168" y="272" width="156" height="24" rx="12" fill="url(#pillgrad)" stroke="#30363d" stroke-width="1"/>
+  <text x="246" y="288" text-anchor="middle" font-size="11" fill="#bf91f3">🌐 Full Stack Developer</text>
+
+  <rect x="334" y="272" width="168" height="24" rx="12" fill="url(#pillgrad)" stroke="#30363d" stroke-width="1"/>
+  <text x="418" y="288" text-anchor="middle" font-size="11" fill="#bf91f3">☕ Backend Developer (Java)</text>
+
+  <rect x="512" y="272" width="178" height="24" rx="12" fill="url(#pillgrad)" stroke="#30363d" stroke-width="1"/>
+  <text x="601" y="288" text-anchor="middle" font-size="11" fill="#bf91f3">🎨 Frontend Dev (React.js)</text>
+
+  <rect x="700" y="272" width="148" height="24" rx="12" fill="url(#pillgrad)" stroke="#30363d" stroke-width="1"/>
+  <text x="774" y="288" text-anchor="middle" font-size="11" fill="#bf91f3">📱 Android (Kotlin)</text>
+
+  <!-- Motto -->
+  <text x="430" y="312" text-anchor="middle" font-size="12" font-style="italic" fill="#6e7681">"Build smart. Ship fast. Keep learning."</text>
+</svg>
+
+</div>
 
 ---
 
