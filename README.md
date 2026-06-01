@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```java
 public class SwethaSriM {
@@ -90,13 +90,15 @@ public class SwethaSriM {
 <div align="center">
 
 <a href="https://github.com/Swethasri08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swethasri08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swethasri08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Swethasri08">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swethasri08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swethasri08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </a>
 
 </div>
+
+> ⚠️ **Note:** Stats cards load once you push your first repository to GitHub. They will auto-populate after that!
 
 ---
 
